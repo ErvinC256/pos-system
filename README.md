@@ -5,9 +5,9 @@
 ![image](https://github.com/ErvinC256/pos-system/assets/149756489/eea6b7dc-3a3a-427b-8810-a90aff0d98bb)
 
 <hr>
-To run:
-1. Within the project folder, run the command 'javac POSSystem.java'
-2. Run the command 'java POSSystem'
+<p>To run:</p>
+<p>1. Within the project folder, run the command 'javac POSSystem.java'</p>
+<p>2. Run the command 'java POSSystem'</p>
 
 
 
